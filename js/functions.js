@@ -25,7 +25,7 @@ function newsList(){
         .then(rslt => rslt.json())
         .then(r => [...r].reverse())
         .then(data => {
-            for(let i = data.length; i>0;i--){
+            for(let i = data.length; i>=0;i--){
 
                 if (data[i]){
                     textLine.insertAdjacentHTML('beforeend', 
