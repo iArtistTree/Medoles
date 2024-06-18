@@ -3,6 +3,12 @@
         "id":1,
         "title": "A new beginning",
         "body": "The micronation of Medoles is opening its doors, inviting you to join its vibrant community."
-    }  
+    },
+    {
+        "id":2,
+        "title": "Candidates for Presidential Elections are Set!",
+        "body": "The nation has slowly been growing in the past weeks, and with that in mind, the elections have finally kicked off after a long wait."
+    } 
 ]
+
 
