@@ -8,6 +8,11 @@
         "id":2,
         "title": "Candidates for Presidential Elections are Set!",
         "body": "The nation has slowly been growing in the past weeks, and with that in mind, the elections have finally kicked off after a long wait."
+    },
+    {
+        "id":3,
+        "title": "Elections Take an Unexpected Turn",
+        "body": "After Medoles had reached five citizens, the inaugural elections were on their way until they met an unexpected end."
     } 
 ]
 
