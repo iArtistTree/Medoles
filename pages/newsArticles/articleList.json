@@ -13,6 +13,11 @@
         "id":3,
         "title": "Elections Take an Unexpected Turn",
         "body": "After Medoles had reached five citizens, the inaugural elections were on their way until they met an unexpected end."
+    },
+    {
+        "id":4,
+        "title": "Faketicle",
+        "body": "Le Lorem Ipsum"
     } 
 ]
 
