@@ -16,6 +16,8 @@
     img {
         margin-top: 5rem; /* Reduce top margin for smaller devices */
         width: 100%;
+        height: auto;
+        display: block;
     }
 
     .fs-1 {
