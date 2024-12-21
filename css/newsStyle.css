@@ -18,10 +18,10 @@
     }
 
     .fs-1 {
-        font-size: 1.5rem; /* Adjust headline size for readability */
+        font-size: 3rem; /* Adjust headline size for readability */
     }
 
     .fs-5 {
-        font-size: 1rem; /* Adjust paragraph font size */
+        font-size: 2rem; /* Adjust paragraph font size */
     }
 }
