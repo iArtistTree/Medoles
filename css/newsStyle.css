@@ -19,9 +19,11 @@
 
     .fs-1 {
         font-size: 3rem; /* Adjust headline size for readability */
+        overflow-wrap: normal;
     }
 
     .fs-5 {
         font-size: 2rem; /* Adjust paragraph font size */
+        overflow-wrap: normal;
     }
 }
