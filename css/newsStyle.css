@@ -6,3 +6,22 @@
     display: block;
     z-index: 0;
 }
+
+@media(max-width: 768px){
+    section {
+        max-width: 90%; /* Expand content to fit smaller screens */
+        padding: 1rem;
+    }
+
+    img {
+        margin-top: 5rem; /* Reduce top margin for smaller devices */
+    }
+
+    .fs-1 {
+        font-size: 1.5rem; /* Adjust headline size for readability */
+    }
+
+    .fs-5 {
+        font-size: 1rem; /* Adjust paragraph font size */
+    }
+}
