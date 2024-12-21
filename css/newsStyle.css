@@ -7,26 +7,3 @@
     z-index: 0;
 }
 
-@media(max-width: 768px){
-    section {
-        max-width: 95%; /* Expand content to fit smaller screens */
-        padding: 1rem;
-    }
-
-    img {
-        margin-top: 5rem; /* Reduce top margin for smaller devices */
-        width: 100%;
-        height: auto;
-        display: block;
-    }
-
-    .fs-1 {
-        font-size: 3rem; /* Adjust headline size for readability */
-        overflow-wrap: normal;
-    }
-
-    .fs-5 {
-        font-size: 2rem; /* Adjust paragraph font size */
-        overflow-wrap: normal;
-    }
-}
