@@ -9,12 +9,13 @@
 
 @media(max-width: 768px){
     section {
-        max-width: 90%; /* Expand content to fit smaller screens */
+        max-width: 95%; /* Expand content to fit smaller screens */
         padding: 1rem;
     }
 
     img {
         margin-top: 5rem; /* Reduce top margin for smaller devices */
+        width: 100%;
     }
 
     .fs-1 {
