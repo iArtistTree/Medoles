@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "title": "A new beginning",
+        "title": "A New Beginning",
         "body": "The micronation of Medoles is opening its doors, inviting you to join its vibrant community."
     },
     {
@@ -18,6 +18,11 @@
         "id":4,
         "title": "Parliament Passes Its First Historic Bill",
         "body": "After a return to normalcy this holiday season and the re-election of X-Man, the parliament has finally opened its doors."
+    },
+    {
+        "id":5,
+        "title": "Two Bills Passed: Government's Agenda Gains Momentum",
+        "body": "With the parliament opening its doors last week, it has made significant progress in advancing legislation, setting new precedents in Medoles."
     }
 ]
 
