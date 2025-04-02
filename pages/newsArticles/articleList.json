@@ -73,8 +73,17 @@
         "id":15,
         "title": "New Candidates on the Horizon for Senator",
         "body": "The Senatorial Elections are back with a new round, with Helium and PinkMappre's at stake. "
+    },
+    {
+        "id":16,
+        "title": "First Bill Ever Rejected, Nation Divided",
+        "body": "The first legislation to be declined by the Parliament occurred earlier this week."
+    },
+    {
+        "id":17,
+        "title": "New Candidates on the Horizon for Senator",
+        "body": "The presidential candidates are revealed, and the race is on."
     }
-
 ]
 
 
