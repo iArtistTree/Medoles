@@ -83,6 +83,11 @@
         "id":17,
         "title": "New Candidates on the Horizon for Senator",
         "body": "The presidential candidates are revealed, and the race is on."
+    },
+    {
+        "id":18,
+        "title": "The Senatorial Elections are Underway!",
+        "body": "The race for the Senate is on!"
     }
 ]
 
