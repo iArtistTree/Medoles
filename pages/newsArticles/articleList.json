@@ -88,6 +88,11 @@
         "id":18,
         "title": "The Senatorial Elections are Underway!",
         "body": "The race for the Senate is on!"
+    },
+    {
+        "id":19,
+        "title": "New Faces in Senatorial Elections",
+        "body": "As May is nearing, so is a new Senator election."
     }
 ]
 
